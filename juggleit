@@ -1,0 +1,4 @@
+# launch
+
+java -classpath ".:./antlr.jar" Main
+

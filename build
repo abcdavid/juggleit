@@ -1,0 +1,4 @@
+# compile
+
+javac -classpath ".:./antlr.jar" *.java
+
